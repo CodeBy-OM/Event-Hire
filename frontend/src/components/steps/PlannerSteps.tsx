@@ -61,7 +61,6 @@ export default function PlannerSteps({ defaultValues, onNext, onBack, stepLabel 
   } = useForm<PlannerDetails>({
     defaultValues: {
       servicesNeeded: [],
-      equipmentProvided: false,
       ...defaultValues,
     },
   });
