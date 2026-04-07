@@ -2,6 +2,8 @@
 
 A full-stack multi-step form for posting event staffing requirements.
 
+# Live Demo - https://event-hire-zeta.vercel.app/
+
 ## Tech Stack
 
 - **Frontend**: Next.js 14, TypeScript, Tailwind CSS, React Hook Form
